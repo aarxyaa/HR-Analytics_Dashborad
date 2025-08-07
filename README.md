@@ -45,7 +45,7 @@ To build an interactive and visually appealing dashboard that tells a **compelli
 
 | File Name                   | Description                             |
 |----------------------------|-----------------------------------------|
-| `HR_Analytics_Dashboard.pbix` | Power BI dashboard file                |
+| `HR Analytics_project` | Power BI dashboard file                |
 | `HR_Analytics_Dashboard/`   | Folder containing dashboard preview images |
 | `README.md`                | Project overview and explanation        |
 
